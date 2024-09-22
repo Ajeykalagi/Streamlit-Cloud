@@ -1,0 +1,6 @@
+streamlit
+langchain-core
+langchain-openai
+openai
+python-dotenv
+https://github.com/Ajeykalagi/streamlit_cloud.git
